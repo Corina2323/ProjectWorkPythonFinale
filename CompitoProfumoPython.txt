@@ -1,1 +1,15 @@
-analizzi e predizione sul rating value 
+About Dataset 
+
+This dataset includes two CSV files: the raw, unprocessed data and a partially cleaned and transformed version. 
+The data contains detailed information about perfumes, including fragrance notes, ratings, main accords, perfumers, and more. 
+It was sourced through web scraping from Fragrantica.com, one of the largest fragrance databases online.
+This cleaned version allows for easier analysis, with certain inconsistencies addressed and specific transformations applied.
+
+Data Files:
+
+Raw Data (fragrantica_raw.csv): This is the original scraped data, containing all raw information collected from the site, 
+without any modifications.
+Cleaned Data (fra_cleaned.csv): A partially cleaned and transformed version of the dataset.
+This file addresses inconsistencies in the raw data and applies transformations to several columns for easier analysis.
+
+Comprehensive Fragrance Information and Ratings from Fragrantica
