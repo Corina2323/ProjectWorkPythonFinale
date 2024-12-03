@@ -1,4 +1,4 @@
-Esame Project Work
+Esame Project Work - Flusso di lavoro
 Aprire il dataset di formato .csv
 Controllo della correttezza del dataset
 Controllo valori nulli
