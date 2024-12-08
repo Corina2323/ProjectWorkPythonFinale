@@ -1,0 +1,100 @@
+Report del Modello Ottimizzato
+==============================
+Migliori Iperparametri:  {'n_estimators': 100, 'min_samples_split': 5, 'min_samples_leaf': 4, 'max_depth': 10}
+Mean Squared Error (MSE): 0.2449
+R2 Score: 0.0017
+
+Feature Importances:
+          Feature  Importance
+     Rating Count    0.208949
+            amber    0.032533
+           citrus    0.030944
+       warm spicy    0.028641
+           fruity    0.027861
+           floral    0.027540
+         aromatic    0.027088
+            musky    0.026789
+     white floral    0.026252
+            woody    0.026030
+              oud    0.023849
+          powdery    0.023770
+          vanilla    0.021263
+      fresh spicy    0.020990
+            green    0.020212
+             rose    0.020146
+            fresh    0.020040
+            sweet    0.018681
+           earthy    0.017802
+        patchouli    0.016887
+           herbal    0.016713
+         balsamic    0.015844
+         animalic    0.014869
+          leather    0.014748
+         tropical    0.014442
+           ozonic    0.014424
+         lactonic    0.013804
+       soft spicy    0.012758
+    yellow floral    0.011757
+          aquatic    0.011468
+         lavender    0.010887
+            smoky    0.009979
+          tobacco    0.009567
+            nutty    0.009409
+             iris    0.009124
+          coconut    0.008915
+            mossy    0.008865
+           violet    0.008588
+            salty    0.006769
+           coffee    0.006694
+         tuberose    0.006660
+            honey    0.006440
+           almond    0.006417
+         metallic    0.005909
+           marine    0.005803
+        aldehydic    0.005720
+           cherry    0.005601
+                     0.005266
+         cinnamon    0.004825
+         cannabis    0.004774
+              rum    0.004267
+          caramel    0.004032
+        chocolate    0.003786
+             anis    0.003608
+            cacao    0.003560
+         terpenic    0.002780
+             wine    0.002293
+             sand    0.002056
+           savory    0.002038
+            soapy    0.001925
+            vodka    0.001603
+          conifer    0.001579
+          mineral    0.001548
+          beeswax    0.001456
+        Champagne    0.001417
+             sour    0.001405
+             oily    0.001258
+          alcohol    0.001229
+          whiskey    0.001143
+          camphor    0.001131
+           bitter    0.000803
+  industrial glue    0.000544
+         gasoline    0.000470
+         gourmand    0.000364
+            vinyl    0.000313
+         asphault    0.000077
+          plastic    0.000013
+             clay    0.000000
+              bbq    0.000000
+brown scotch tape    0.000000
+             Pear    0.000000
+            bacon    0.000000
+        coca-cola    0.000000
+         hot iron    0.000000
+            milky    0.000000
+             meat    0.000000
+          foresty    0.000000
+             sake    0.000000
+           rubber    0.000000
+            paper    0.000000
+      tennis ball    0.000000
+      wet plaster    0.000000
